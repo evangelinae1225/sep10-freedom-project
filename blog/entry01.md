@@ -1,7 +1,8 @@
 # Entry 1
-##### X/X/XX
+##### 10/06/2025
 
-Text
+## Reasons For Space Exploration
+
 
 [Next](entry02.md)
 
