@@ -7,6 +7,7 @@ I have many reasons for choosing Space Exploration for my project. Since element
 
 ## Engineering Design Process
 
+At the moment, I am at my first step of the Engineering Design Process. This is where I define the problem. I want to research more about what technology still doesn't exist in the modern world that will help space exploration, or research more about how technology today is changing to learn more about space. Then I want to talk about my findings and tell my peers about it. Next, I can look through articles and videos that contain questions about what's in space that we still don't know, and then I can think of an invention that can help find the answer to this question.  So one day, if scientists discover my ideas, maybe they can create something and actually make a discovery! 
 
 [Next](entry02.md)
 
