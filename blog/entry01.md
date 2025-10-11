@@ -27,6 +27,10 @@ Lately, many classes have been giving me a lot of homework assignments, such as 
 If you search "Space Exploration Technology" on Google, there will be many articles since Technology is what's mainly used for space exploration. So I decided I should search for "New Space Exploration Technology" and I stumbled on the Article about how rockets can now go into space and back. Not only did I find this information cool, but I also learned that if I'm more specific with my Google searches, it's easier to find the specific information you are looking for. I also learned that even if you can't use Google Gemini because it isn't always accurate, you can check the sources of where it got the informaitoon. So you can check it out for yourself and see how reliable the source is. 
 
 
+## Summary 
+
+In conclusion, space Exploration is what I will be researching for my Freedom Project this year. I hope I can use my HTML skills that I'm learning and use them to teach people about new technology being made to support our understanding of the universe. Not only that, I hope I can use this experience as a way to improve my skills that are required for daily life. 
+
 
 
 
