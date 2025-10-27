@@ -6,6 +6,7 @@ Topic: **Space Exploration**
 * Text
 
 ## Part A: existing technology
+#### Software 
 * My first search was "Space Exploartion software"
 * The first website I opened was [Space Engine](https://spaceengine.org/universe/planets-and-moons)
   * <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/314650/capsule_616x353.jpg?t=1742336096" alt="SpaceEngine on Steam"/>
@@ -15,6 +16,17 @@ Topic: **Space Exploration**
   * Space Engine is free aswell, which means its accesible to anyone who has a computer
   * This app is perfect for anyone wanting to explore space and answer questions they may have, such as what would happen if earth was as big as jupiter?
   * This helps with greater understanding of how celestial bodies function, and how they would react in different situations, with a visual representaion.  
+* My second search was "Software programs for space exploration" 
+  * I found that on NASA's website, there is a section called [NASA's Eyes](https://science.nasa.gov/eyes/) 
+  * On this section of NASA's website, you can look at many 3D models, of things such as a recreation of a rover landing or tracking asterioids all in 3D
+  * It's easy to use, esspecially since the instructions are seen in the Simulation, so you can know how to explore around the simmulation
+  * <img src="https://science.nasa.gov/wp-content/uploads/2024/03/cassini-grandfinale-4x3-1.jpg?resize=600,450">
+  * You can learn more about how rovers land on different atmospheres or explore different planets
+     * On that website, there was also a simulation that was 3D, but it shows the signals we get from space to earth in real time which, isnt exactly 3D but is still a cool simulation on that website
+   
+  * 
+*
+#### Hardware 
 * My second search was "reusable rockets" since I wanted to do more research on it
   * The website I opened first was the [The Offical Website for SpaceX](https://www.spacex.com/vehicles/falcon-9)
   * <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCn-pClFrAYFsAvWONyuuPo8wmchKIigZnMg&s" alt="spaceX"/>
