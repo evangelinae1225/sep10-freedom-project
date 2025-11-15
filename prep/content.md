@@ -6,7 +6,7 @@ Topic: **Space Exploration**
 * Text
 
 ## Part A: existing technology
-#### Software 
+#### Simulations
 * My first search was "Space Exploration software"
 * The first website I opened was [Space Engine](https://spaceengine.org/universe/planets-and-moons)
   * <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/314650/capsule_616x353.jpg?t=1742336096" alt="SpaceEngine on Steam"/>
@@ -23,10 +23,7 @@ Topic: **Space Exploration**
   * <img src="https://science.nasa.gov/wp-content/uploads/2024/03/cassini-grandfinale-4x3-1.jpg?resize=600,450">
   * You can learn more about how rovers land on different atmospheres or explore different planets
      * On that website, there was also a 3D simulation, but it shows the signals we get from space to earth in real time, which isn't exactly 3D, but is still a cool simulation on that website
-   
-  * 
-*
-#### Hardware 
+#### Large Tech that is sent to space
 * My second search was "reusable rockets" since I wanted to do more research on it
   * The website I opened first was the [The Official Website for SpaceX](https://www.spacex.com/vehicles/falcon-9)
   * <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCn-pClFrAYFsAvWONyuuPo8wmchKIigZnMg&s" alt="spaceX"/>
@@ -41,6 +38,7 @@ Topic: **Space Exploration**
     * Also, to go to space, it folds up to fit in a rocket, and in space, it opens up
     * Also, the James Webb telescope orbits much farther from the Hubble telescope, showing improvement
     * It also has SPF protection of 1 million, so it can survive the sun's, Earth's, and moon's radiation
+#### Biological Tech 
 * The last I searched up was "Unknown Space exploration technology" and stumbled upon Tissue Chips
    * I found NASA talking about it(not surprising anymore), and it was in this article called ["Tissue Chips Accurately Model Organs in Space"](https://www.nasa.gov/image-article/tissue-chips-accurately-model-organs-in-space/)
    * This article talked about how Tissue chips mimic real human tissues and are used to test how space radiation would affect actual human cells.
@@ -48,7 +46,9 @@ Topic: **Space Exploration**
    * These Tissue Chips were originally made for biological research to test things such as the effect of drugs on the human body, without using actual people directly, but it was eventually led to being used by NASA to study the effects cells have in space
    * These are better than some other Chip models because they use real human cells to study, which makes it more authentic
 * [biosensor](https://ntrs.nasa.gov/api/citations/20020048428/downloads/20020048428.pdf)
-*  
+   *  Can continuously track basic physiological parameters, such as heart rate, blood pH, and body temperature
+   *  Important for people going to explore space in the future, aswell as people on the ISS
+ 
   
 
 ## Part B: possible future technology
