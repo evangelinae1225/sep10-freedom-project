@@ -47,7 +47,7 @@ Topic: **Space Exploration**
    * It's important to use Tissue Chips because we can study the effects of space travel on human cells, so that in the future, when we go to explore space, we know what to expect and are protected from such issues
    * These Tissue Chips were originally made for biological research to test things such as the effect of drugs on the human body, without using actual people directly, but it was eventually led to being used by NASA to study the effects cells have in space
    * These are better than some other Chip models because they use real human cells to study, which makes it more authentic
-* [biosensor]("https://ntrs.nasa.gov/api/citations/20020048428/downloads/20020048428.pdf")
+* [biosensor](https://ntrs.nasa.gov/api/citations/20020048428/downloads/20020048428.pdf)
 *  
   
 
