@@ -2,8 +2,9 @@
 Topic: **Space Exploration**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* Humans have always wanted to travel and see the stars, but after humans sent the first Satellite named "Sputnik", space seemed closer to our reach. 
+* Space Exploration has developed exponentially over the years, not only have humans visited the moon, but we are also trying to visit other space objects, such as Mars. We aswell developed high tech telescopes to look at the universe around us and how it expanded over billions of years.
+* Space Exploration is always learning something new about the stars around us, and new technologies are being invented to reach our goals and satisfy our curiosity.
 
 ## Part A: existing technology
 #### Simulations
