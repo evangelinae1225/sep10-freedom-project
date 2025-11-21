@@ -53,5 +53,21 @@ Topic: **Space Exploration**
   
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+
+#### Robot rovers that can be controlled through Virtual Reality headsets over long distances 
+
+* There are already things such as rovers on mars and they are controlled normally, but what if those robots got an upgrade and can be used with VR headsets or a fullbody suit even
+* Bonus points if it looks more humanoid so it feels like your actually there
+* Mech type thing
+* Only researchers will have access to this technology to avoid fights
+* Could help during future mars missions
+* 
+
+
+#### Rockets that are made from metal that's 3D printable, and the use of solar panels to reduce costs 
+
+* Sending rockets to space is expensive, so using 3D printed parts will make it much cheaper, especially since you don't have to pay for people making the rocket physically, if they aren't there. As well, solar panels would allow for the space ship to not use fuel costs, and be more environmentally friendly. Or using fuel + sunlight interchangeably would still reduce the cost .
+* The 3d prints will probably be much more accurate and faster
+* The 3d parts are made of **metaL**
+
+
