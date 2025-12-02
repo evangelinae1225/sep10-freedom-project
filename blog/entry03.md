@@ -1,7 +1,24 @@
-# Entry 3
-##### X/X/XX
+# Entry 3:
+##### 12/01/2025
+---
 
-Text
+## Introduction
+
+
+## Engineering Design Process
+
+## Skills
+
+#### Skill 1 
+
+
+
+#### Skill 2
+
+ 
+## Summary 
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
