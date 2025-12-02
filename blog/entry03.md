@@ -10,14 +10,16 @@ I started thinking of issues that need to be solved, and the first one I thought
 Another issue I witness in space exploration is the expense of building rockets to get to space. So my solution is simple, to use 3D printed parts. It will make it much cheaper, especially since you don't have to pay for people making the rocket physically if they aren't there. As well, solar panels would allow the spaceship to not use fuel, and be more environmentally friendly, or using fuel and Solar energy interchangeably will still lower costs. The 3d Parts will be made of metal for durability, and using 3d prints might also make the rockets much accurate since it isn't done by a human, which could have more chances of error. 
 
 ## Engineering Design Process
+Right now : Plan 
+Next time : Create a prototype
 
 ## Skills
 
-#### Skill 1 
+#### Organization
 
 
 
-#### Skill 2
+#### Creativity
 
  
 ## Summary 
