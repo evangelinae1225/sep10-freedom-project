@@ -1,4 +1,4 @@
-# Entry 3:
+# Entry 3: Creating New Inventions
 ##### 12/01/2025
 ---
 
