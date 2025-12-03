@@ -3,14 +3,14 @@
 ---
 
 ## Introduction 
-Since I finally finished researching my topic, I decided to move on to creating new inventions that can help benefit space exploration. 
+Since I finally finished researching my topic, I organized my information into simulations, space technology, and biological technology. I then decided to move on to creating new inventions that can help benefit space exploration.  
 #### Humanoid Rovers
 I started thinking of issues that need to be solved, and the first one I thought of was that rovers on Mars aren't so advanced yet. You can't control them manually quickly, and since they aren't humanoid, they can barely do as much as a human type robot would. So my invention solves all of these issues. My robot is a human type rover that can be controlled through a VR headset. This not only will give you the full experience of feeling like you're on Mars, but it also makes the controls much easier for researchers to use. Instead of typing code every single time, they can just physically do what they want the rover to do. 
 #### Cheaper Rockets 
 Another issue I witness in space exploration is the expense of building rockets to get to space. So my solution is simple, to use 3D printed parts. It will make it much cheaper, especially since you don't have to pay for people making the rocket physically if they aren't there. As well, solar panels would allow the spaceship to not use fuel, and be more environmentally friendly, or using fuel and Solar energy interchangeably will still lower costs. The 3d Parts will be made of metal for durability, and using 3d prints might also make the rockets much accurate since it isn't done by a human, which could have more chances of error. 
 
 ## Engineering Design Process
-Right now : Plan 
+Right now, I'm on the 4th step of the Engineering design process, and this is where I brainstorm possible inventions that can solve issues with Space Exploration. Some issues are the expenses of rockets and the not so advanced rovers on Mars, which can possibly, in the future, tell us more information about things such as climate change. 
 Next time : Create a prototype
 
 ## Skills
