@@ -1,9 +1,13 @@
-# Entry 4: FOrgot name
+# Entry 4: Picking and Confirming Tool
 ##### 03/09/2026
 ---
 
 ## Introduction 
 
+
+
+## EDP
+This Step isn't a part of the EDP.
 
 ## Skills
 
