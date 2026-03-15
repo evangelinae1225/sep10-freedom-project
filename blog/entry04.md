@@ -11,7 +11,7 @@ For my Freedom Project, I need to learn tools to help me make my website more un
 
 #### And here is my result: 
 
-<img src="results.PNG" width=500px>
+<img src="results.PNG" width=200px>
 
 I haven't gone past this, but so far, it was interesting to use. I'm still a little unsure of how to use it but I haven't fully started learning it. So for the next couple weeks, I will continue learning how to use it. 
 
