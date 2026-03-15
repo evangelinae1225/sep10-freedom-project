@@ -21,6 +21,9 @@ I haven't gone past this, but so far, it was interesting to use. I'm still a lit
 
 ## Skills
 
+#### Embracing Failure
+While following the tutorial, it was a bit confusing, so I had to recheck my work a couple of times to make sure I did it correctly, if my work wasn't showing up the way I wanted it to. I also kept messing up the naming rule for JavaScript, where each word had to have a capital letter in functions. I was very unused to that because I was told to make everything lowercase with no spaces. So then my code wouldn't work for that reason either, it is more case sensitive than HTML, I'm pretty sure. But, I had to not get mad and persevere because without mistakes, I won't learn ReactJS. 
+
 
 
  
