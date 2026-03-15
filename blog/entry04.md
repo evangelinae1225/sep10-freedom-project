@@ -37,10 +37,6 @@ In Conclusion, the next tool I will be using is ReactJS and learning how to use 
 
 
 
-[Previous](entry02.md) | [Next](entry04.md)
-
-[Home](../README.md)
-
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
