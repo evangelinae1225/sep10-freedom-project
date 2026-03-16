@@ -1,19 +1,20 @@
 function ListGroup() {
   let items = ["New York", "San Francisco", "Tokyo", "London", "Paris"];
-  items = [];
-
-
-  const getMessage = () => {
-   return items.length ===0? <p> No items found.</p> : null}
-
   
+
+
+
+   
   return (
     <>
       <h1>List Group</h1>
-      {getMessage()}
+      {items.length === 0 ? <p>No items found.</p> : null}
+      {items.length === 0 && <p>No items found.</p>}
       <ul className="ListGroup">
         {items.map((item) => (
-          <li key={item}>{item}</li>
+          <li className="list-group-item" key={item}>
+            {item}
+          </li>
         ))}
       </ul>
     </>
