@@ -9,16 +9,26 @@
     * I'm already 36:53 minutes in out of a 1:20:03 video So i will continue working on it 
 ### 03/17/2026
 
-* [ima do this vid](https://www.youtube.com/watch?v=m55PTVUrlnA&list=WL&index=1)
-    
+* [ima do this vid later, Im just leaving this for myself](https://www.youtube.com/watch?v=m55PTVUrlnA&list=WL&index=1) 
+
+### 3/22/2026:
+
+#### What JavaScript is used in type script
+* All fundementals of JavaScript are used 
+
+*  Functions example:
+    * `function add(a, b) {
+    return a + b;}`
+    * Allows to reuse code multiple times
+
+* Elements:
+    * How to create an element
+        * `const newParagraph = document.createElement('p');`
+            * *newParagraph* is the name if the element
+            * So this is how to declare one
 
 
 
-
-
-
-### X/X/XX:
-* Text
 
 
 <!-- 
