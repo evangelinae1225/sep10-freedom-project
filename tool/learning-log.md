@@ -27,6 +27,34 @@
             * *newParagraph* is the name if the element
             * So this is how to declare one
 
+### 03/23/2026
+
+Watching video from 03/17/2026:
+
+### Arrow function: 
+
+``` js
+const DoSomething =() ==> {
+
+}
+```
+
+- Works better with call backfunctions compared to normal functions 
+
+- Just use ``` export const``` to export 
+
+### Anonymous functions: 
+
+- Functions without an identifier 
+- ``` <button> ```
+
+
+
+
+
+
+
+
 
 
 
