@@ -45,8 +45,32 @@ const DoSomething =() ==> {
 
 ### Anonymous functions: 
 
-- Functions without an identifier 
-- ``` <button> ```
+- Functions without a name
+- allows to use a function without declaring it
+- ``` <button onClick={() { consol.log("hey")}}></button>; ```
+
+## [Ternary Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator)
+
+- Instead of using `If {} Else {}`(and you have variables) you can do something like this: 
+``` JS
+
+let age = 16;
+let name = age > 10 ? "Pedro" : "Jack";
+```
+
+- So `?` means "if" and `:` means else
+- and for the previous code, the way to make it visible you can write 
+
+``` JS
+const component = () => {
+    return age > 10 ? <div> Pedro </div> : <div> Jack </div>
+};
+```
+
+## Objects
+
+
+ 
 
 
 
