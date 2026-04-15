@@ -66,8 +66,21 @@ const component = () => {
     return age > 10 ? <div> Pedro </div> : <div> Jack </div>
 };
 ```
+--- 
+Day one 4/15/2026: 
+- I will do the introduction to JavaScript on [https://www.codecademy.com/learn], it takes 45 minutes and I already started on it. If I finish it I continue with the rest of the lessosns in order. 
 
-## Objects
+    - Console, Comments, Data types, Arithemtic Operatures, string connection, properties, methods, built in objects
+
+Day Two 4/16/2026: 
+- The Variables lesson and maybe start On the Functions lesson 
+
+    - Creating varibales, letting them, const, Operations 
+
+
+Day Three 4/17/2026: 
+- The Functions lesson, I would be skipping a module but in ReactJs functions are some of the most used and I want to understand how to write them instead of copy and pasting. Like why are there 2 equal signs and how they are used
+    - Calling Functions, Parameters, Different tyopws of functions 
 
 
  
