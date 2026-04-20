@@ -107,6 +107,14 @@ objects
 - Built-in objects, including Math, are collections of methods and properties that JavaScript provides.
 
 
+Things I learned 4/16 4/17:
+
+- camelCase is used for the code
+- `Const =` makes a variable
+- `root.render(insertName)` renders code
+- `{}` allows to right javascript in ReactJS after writing in HTML.
+
+
  
 
 
