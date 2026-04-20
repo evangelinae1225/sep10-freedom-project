@@ -1,7 +1,24 @@
 # Entry 5
-##### X/X/XX
+04/20/26
 
-Text
+## Introduction 
+## EDP
+
+## Skills
+
+#### How to Google
+
+
+#### How to learn
+
+
+
+ 
+## Summary 
+
+
+
+
 
 [Previous](entry04.md) | [Next](entry06.md)
 
