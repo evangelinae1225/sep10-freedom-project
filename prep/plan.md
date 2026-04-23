@@ -6,10 +6,10 @@
 
 ## Colors
  * `#AFDCEB`
- * `CAE9F5`
- * `F0F8FF`
- * `ADD8E6`
- * `86C5D8` 
+ * `#CAE9F5`
+ * `#F0F8FF`
+ * `#ADD8E6`
+ * `#86C5D8` 
 
 
 ## Fonts
