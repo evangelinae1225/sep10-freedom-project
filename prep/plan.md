@@ -5,10 +5,15 @@
 * [Desktop](wireframe/fp10wireframepc.PNG)
 
 ## Colors
-* `#ABC123`
+ * `#AFDCEB`
+ * `CAE9F5`
+ * `F0F8FF`
+ * `ADD8E6`
+ * `86C5D8` 
+
 
 ## Fonts
-* [Text](URL)
+* [Google Sans Flex](https://fonts.google.com/specimen/Google+Sans+Flex?preview.script=Latn&query=fu)
 
 ## Timeline
 
