@@ -19,13 +19,23 @@
 
 #### MVP
 
-* Task/Timeline
+* Make Index, and other pages for future refrence **Day One**
+* Work on Tech Pages(Just text, Images, formating) **Day one, Day Two**
+* Work on Index using ReactJS **Day Three, Day Four** 
+    * fix some bugs too, and relook code
+* Work On CSS(Colors, Fonts) **Day four**
+
 
 ---
 
 #### Beyond MVP
 
-* Task
+* Add Animations to my websites 
+    * Scrolling animations
+    * moving images
+    * glowing over certain buttons when hovering 
+* Instead of making different pages, to make the contect overlay when the buttons are click
+    * This most likey not happen
 
 
 
