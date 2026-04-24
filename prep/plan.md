@@ -23,7 +23,7 @@
 * Work on Tech Pages(Just text, Images, formating) **Day one, Day Two**
 * Work on Index using ReactJS **Day Three, Day Four** 
     * fix some bugs too, and relook code
-* Work On CSS(Colors, Fonts) **Day four**
+* Work On CSS(Colors, Fonts, Fix adjustability across devices) **Day four**
 
 
 ---
