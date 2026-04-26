@@ -9,7 +9,7 @@ N/A
 
 ## Skills
 
-#### How to Google
+#### Debugging
 
 
 #### How to learn
