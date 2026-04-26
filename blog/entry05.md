@@ -21,7 +21,7 @@ I honestly didn’t know the style of teaching I'd prefer, but after this experi
 
  
 ## Summary 
-
+In conclusion, I will continue learning ReactJS whiling working on my freedom project to make my skills even better. 
 
 
 
