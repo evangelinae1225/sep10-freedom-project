@@ -10,6 +10,7 @@ N/A
 ## Skills
 
 #### Debugging
+Debugging is a very important process that helps learn more about the code language. One of my main issues was that I kept forgetting to write the semicolon after every line of code because I still associate ReactJS with HTML. So, I always had to find the missing Semi-Colon I forgot about. As well, in my freedom project right now, I'm trying to figure out why I can’t see my ReactJS code when I do `npm run dev`, which is another way of doing `http-server`. So that’s what I am actively doing now, and studying the code, trying to figure out what's not rendering. 
 
 
 #### How to learn
