@@ -10,6 +10,7 @@ N/A
 ## Skills
 
 #### How to Google
+I honestly didn’t know the style of teaching I'd prefer, but after this experience, I learned that I prefer learning hands-on. This means doing challenges and finding solutions. This is why [Code Academy](https://www.codecademy.com/) was a perfect choice for me because it reminded me of Free Code Camp, while also giving me tasks to do, so I remember when to use certain lines of code. As well, there are “Project Lessons” which I should try sometime on my own, because it will help practice using my tool on websites such as Freedom Projects. Also, while trying to learn ReactJS, I figured out that so many websites use it, such as Instagram, Netflix, and Airbnb. So this is a very important tool to master. 
 
 
 #### How to learn
