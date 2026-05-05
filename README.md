@@ -9,6 +9,7 @@ For my project, I chose the topic of **Space Exploration**.
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **ReactJS** in order to help me make my website.
 
 Here is the Repo where I wrote my code: https://github.com/evangelinae1225/sep10-freedom-project-code 
+
 Here is the link to view my website: https://evangelinae1225.github.io/sep10-freedom-project-code/#/
 ## Links
 
