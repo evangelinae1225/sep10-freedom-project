@@ -1,7 +1,20 @@
-# Entry 6
-##### X/X/XX
+# Entry 5
+05/10/26
 
-Text
+## Introduction 
+
+## EDP
+N/A
+
+## Skills
+
+#### Skill 1
+#### Skill 2
+
+
+ ## Summary 
+
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
