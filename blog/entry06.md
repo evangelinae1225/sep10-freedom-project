@@ -25,6 +25,7 @@ Many classes have given me homework assignments. I was performing in a musical, 
 ## 
 
 ##  Summary 
+In conclusion, I have to fix some errors in my MVP to enhance the quality of my website!
 
 
 [Previous](entry05.md) | [Next](entry07.md)
