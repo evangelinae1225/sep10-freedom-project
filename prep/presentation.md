@@ -1,16 +1,27 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Space Exploration wouldn't exist without technology. Everything we use today to study space is some form of technology, from Telesecopes to Rovers on Mars. 
 
 ## Product
-* 
+* Demo of the website
 
 ## Process
-* 
-
+* Start by looking at websites for inspiration
+* Make Wireframe
+* MVP: Make a website with multiple pages displaying Text and images side by side about Simulation Technology, Large technology, Biological technology, and Future technologies
+* Beyond MVP: Add an Image background, make images glow when the mouse is hovering over them
+* Code Snippets:
+  * Imports I added
+  * Front page images
+  * and code for image side by side with text
+  * Issues I had to solve with package.json
 ## Conclusion
-* 
+* [Url to Project]
+* Takeaways:
+  * Asking for help from friends is extra helpful. I had issues with making my webpage visible on GitHub, but my friend was able to do it before me. So I asked for help, and eventually, after a period of class, we fixed the issue. Sometimes asking someone else to check issues for you is more helpful than trying to look for them yourself.
+  * Time management is important because most of my time was spent on installing and making ReactJS work. I had a lot less time to work on the actual project. So next time I need to expect that if I'm learning a new tool, it will take much longer to complete a project, and I should give myself more time. 
+  * "S.E.T. SPACE EXPLORATION TECHNOLOGY." 
 
 <!-- EXAMPLE
 
