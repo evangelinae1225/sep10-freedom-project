@@ -1,4 +1,4 @@
-I'm Evangelina and I wonnder what is your favorite planet? 
+I'm Evangelina and I wonder what is your favorite planet? 
 
 Different responses: 
 
@@ -12,7 +12,7 @@ Earth:
 ISS ORBITS EARTH 
 
 Mars: 
-Many rovers and the one still in action is perserverance and was sent to mars in 2022
+Many rovers and the one still in action is perseverance and was sent to mars in 2022
 
 Jupiter: 
 Juno a primary orbiter studying Jupiter's origins, atmosphere, and deep interior structure. It arrived at the planet in 2016
@@ -21,11 +21,11 @@ Saturn:
 Cassini launched in 1997 and arrived in 2004, becoming the first spacecraft to orbit Saturn
 
 Uranus: 
-Voyager 2 discovered uranu's rings and also 10 new moons. 
+Voyager 2 discovered Uranus's rings and also 10 new moons. 
 
 Neptune:
 
 During its encounter, Voyager 2 made several landmark discoveries, including:Confirming the existence of faint, dark planetary rings around Neptune.Discovering six new moons and studying its largest moon, Triton.
 
 
-Well my project further explores these technologies, such as space x that makes reusable rockets and the Nasa with the Hubble telescope. As well as simulations that include space engine and Nassa's wesbsite. Bio tecnolohy where they text conditions of space on the human body and future technology! I created future technologies that could help space exploration. Such as my robot rover, where you can wear a VR headset and control a human like robot so you feel like you are on mars but not actually on mars. As well as my 3D prinited rockets that not only will save costs but also save the planet from using to much fossile fuels. Thank you for your time! Do you have any questions? 
+Well my project further explores these technologies, such as space x that makes reusable rockets and the Nasa with the Hubble telescope. As well as simulations that include space engine and Nasa's website. Bio technology where they text conditions of space on the human body and future technology! I created future technologies that could help space exploration. Such as my robot rover, where you can wear a VR headset and control a human like robot so you feel like you are on mars but not actually on mars. As well as my 3D printed rockets that not only will save costs but also save the planet from using to much fossil fuels. Thank you for your time! Do you have any questions? 
