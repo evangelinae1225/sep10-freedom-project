@@ -21,11 +21,11 @@ I am on the last step of the Engineering Design Process, where I presented my pr
 
 ## Skills
 
-#### Skill 1
-
-
+#### Creativity
+When I presented my project, I had to make a [Slide-Deck](https://docs.google.com/presentation/d/1TeCi9xQ8qhTXp7y6Q7Io4_6fdh_lUQJa6vVFJ80AgT0/edit?usp=sharing). I am usually good at making slides with a heavy amount of information. But for this class, I had to summarize all the information I wanted to say into just a couple of phrases. I had to be creative by not only summarizing my words but also making sure everything was understandable even without my words. I also had to make a theme for my website, but I didn't know which fonts I should use or what colors. But, I realized I already had a theme on my website, so I tried to match the feelings of my website in my presentation. 
 
 #### Skill 2
+
 
 
 ##  Summary 
