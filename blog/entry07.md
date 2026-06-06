@@ -16,6 +16,7 @@ During the Expo, I wasn't the first to present to the judges, but I did go gener
 
 ## EDP
 
+I am on the last step of the Engineering Design Process, where I presented my project to my peers and upperclassmen. Now that I have done this, I will be showing my Projects to others, and also present them at the Showcase with other people!
 
 
 ## Skills
