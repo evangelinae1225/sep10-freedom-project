@@ -4,6 +4,9 @@
 
 ## Takeaways
 
+### **In-class presentation**
+
+### **Expo Elevator pitch**
 	
 	
 
