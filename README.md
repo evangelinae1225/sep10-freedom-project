@@ -10,7 +10,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **R
 
 ## Links
 
-[Repository with my Code](ttps://github.com/evangelinae1225/sep10-freedom-project-code)
+[Repository with my Code](https://github.com/evangelinae1225/sep10-freedom-project-code)
 
 [Product](https://evangelinae1225.github.io/sep10-freedom-project-code/#/)
 
