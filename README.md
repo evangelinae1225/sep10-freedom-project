@@ -14,7 +14,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **R
 
 [Product](https://evangelinae1225.github.io/sep10-freedom-project-code/#/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1TeCi9xQ8qhTXp7y6Q7Io4_6fdh_lUQJa6vVFJ80AgT0/edit?usp=sharing)
 
 ## Implications
 ##### PROS
