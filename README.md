@@ -18,9 +18,16 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **R
 
 ## Implications
 ##### PROS
-* 
+*  People learn about new technologies in space exploration
+*  My technologies can help reduce fossil usage while sending people to space
+
+  
 ##### CONS
-* 
+* Reduces the number of jobs available due to 3d printed materials
+* Website isn't accessible
+  * Only people who know English can understand it
+  * No font size changes
+  * Etc.
 
 
 ## Blog
